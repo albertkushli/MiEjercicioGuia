@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\GRADOS\GRADOS\bin\Debug\net6.0\GRADOS.exe
+C:\Users\Asus\source\repos\GRADOS\GRADOS\bin\Debug\net6.0\GRADOS.deps.json
+C:\Users\Asus\source\repos\GRADOS\GRADOS\bin\Debug\net6.0\GRADOS.runtimeconfig.json
+C:\Users\Asus\source\repos\GRADOS\GRADOS\bin\Debug\net6.0\GRADOS.dll
+C:\Users\Asus\source\repos\GRADOS\GRADOS\bin\Debug\net6.0\GRADOS.pdb
+C:\Users\Asus\source\repos\GRADOS\GRADOS\obj\Debug\net6.0\GRADOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\GRADOS\GRADOS\obj\Debug\net6.0\GRADOS.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\GRADOS\GRADOS\obj\Debug\net6.0\GRADOS.AssemblyInfo.cs
+C:\Users\Asus\source\repos\GRADOS\GRADOS\obj\Debug\net6.0\GRADOS.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\GRADOS\GRADOS\obj\Debug\net6.0\GRADOS.dll
+C:\Users\Asus\source\repos\GRADOS\GRADOS\obj\Debug\net6.0\refint\GRADOS.dll
+C:\Users\Asus\source\repos\GRADOS\GRADOS\obj\Debug\net6.0\GRADOS.pdb
+C:\Users\Asus\source\repos\GRADOS\GRADOS\obj\Debug\net6.0\GRADOS.genruntimeconfig.cache
+C:\Users\Asus\source\repos\GRADOS\GRADOS\obj\Debug\net6.0\ref\GRADOS.dll
